@@ -16,3 +16,9 @@ print(a,"//",b,"= is ",a//b)
 print(a,"**",b,"= is ",a**b)
 
 
+# Logic gates
+
+if a > 4 and b < a:
+	print("Chaining successful")
+
+
